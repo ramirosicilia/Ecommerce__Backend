@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 const port = 3000;
 
 app.use(cors({
-    origin: ["https://ecommerce-rama.vercel.app/","http://localhost:5000"]
+    origin: [`${process.env.FRONT}`,"http://localhost:5000"]
 })) 
 
 
