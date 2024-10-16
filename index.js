@@ -2,11 +2,14 @@ const express = require("express");
 const path = require("path");
 const fs = require("fs").promises; // Usamos la versión de promesas de fs
 const cors = require("cors");
+const morgan = require("morgan");
 
 const app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true })); 
+
+app.use(morgan("combined"))
 
 const port = 3000;
 
