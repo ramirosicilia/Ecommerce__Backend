@@ -6,7 +6,7 @@
     "categoria": "carteras",
     "precio": 1000,
     "color": "azul",
-    "stock": 7,
+    "stock": 6,
     "stockInicial": 20,
     "cantidad": 1
   },
@@ -17,18 +17,18 @@
     "categoria": "carteras",
     "precio": 1000,
     "color": "Marron",
-    "stock": 6,
+    "stock": 4,
     "stockInicial": 10,
-    "cantidad": 2
+    "cantidad": 1
   },
   {
     "id": 2,
     "nombre": "Campera Maydane",
     "imagen": "/imagenes/chica-campera-marron.jpeg",
     "categoria": "camperas",
-    "precio": 1000,
+    "precio": 10,
     "color": "bordo",
-    "stock": 13,
+    "stock": 8,
     "stockInicial": 20,
     "cantidad": 1
   },
@@ -39,7 +39,7 @@
     "categoria": "carteras",
     "precio": 1000,
     "color": "Marron",
-    "stock": 16,
+    "stock": 15,
     "stockInicial": 20,
     "cantidad": 1
   },
@@ -61,7 +61,7 @@
     "categoria": "pantalon",
     "precio": 1000,
     "color": "gris",
-    "stock": 4,
+    "stock": 3,
     "stockInicial": 15,
     "cantidad": 1
   },
@@ -72,9 +72,9 @@
     "categoria": "remeras",
     "precio": 1000,
     "color": "naranja",
-    "stock": 19,
+    "stock": 17,
     "stockInicial": 20,
-    "cantidad": 1
+    "cantidad": 2
   },
   {
     "id": 7,
@@ -136,7 +136,7 @@
     "nombre": "vestido Massimo Dutt",
     "imagen": "/imagenes/chica-vestido-Amarillo.jpeg",
     "categoria": "vestidos",
-    "stock": 19,
+    "stock": 18,
     "stockInicial": 20,
     "precio": 1000,
     "color": "amarillo",
