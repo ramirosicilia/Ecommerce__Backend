@@ -6,9 +6,9 @@
     "categoria": "carteras",
     "precio": 10,
     "color": "azul",
-    "stock": 6,
+    "stock": 20,
     "stockInicial": 20,
-    "cantidad": 1
+    "cantidad": 19
   },
   {
     "id": 1,
@@ -17,9 +17,9 @@
     "categoria": "carteras",
     "precio": 10,
     "color": "Marron",
-    "stock": 4,
+    "stock": 1,
     "stockInicial": 10,
-    "cantidad": 1
+    "cantidad": 7
   },
   {
     "id": 2,
@@ -28,9 +28,9 @@
     "categoria": "camperas",
     "precio": 10,
     "color": "bordo",
-    "stock": 8,
+    "stock": 1,
     "stockInicial": 20,
-    "cantidad": 1
+    "cantidad": 38
   },
   {
     "id": 3,
@@ -39,9 +39,9 @@
     "categoria": "carteras",
     "precio": 10,
     "color": "Marron",
-    "stock": 15,
+    "stock": 1,
     "stockInicial": 20,
-    "cantidad": 1
+    "cantidad": 13
   },
   {
     "id": 4,
@@ -50,7 +50,7 @@
     "categoria": "carteras",
     "precio": 10,
     "color": "Marron",
-    "stock": 14,
+    "stock": 13,
     "stockInicial": 15,
     "cantidad": 1
   },
@@ -61,9 +61,9 @@
     "categoria": "pantalon",
     "precio": 10,
     "color": "gris",
-    "stock": 3,
+    "stock": 11,
     "stockInicial": 15,
-    "cantidad": 1
+    "cantidad": 7
   },
   {
     "id": 6,
@@ -72,9 +72,9 @@
     "categoria": "remeras",
     "precio": 10,
     "color": "naranja",
-    "stock": 17,
+    "stock": 16,
     "stockInicial": 20,
-    "cantidad": 2
+    "cantidad": 1
   },
   {
     "id": 7,
@@ -85,7 +85,7 @@
     "color": "blanco",
     "stock": 11,
     "stockInicial": 11,
-    "cantidad": 11
+    "cantidad": 10
   },
   {
     "id": 8,
@@ -94,9 +94,9 @@
     "categoria": "pantalon",
     "precio": 10,
     "color": "rosa",
-    "stock": 16,
+    "stock": 20,
     "stockInicial": 20,
-    "cantidad": 1
+    "cantidad": 13
   },
   {
     "id": 9,
@@ -106,8 +106,8 @@
     "precio": 10,
     "color": "verde",
     "stockInicial": 16,
-    "stock": 15,
-    "cantidad": 1
+    "stock": 16,
+    "cantidad": 14
   },
   {
     "id": 10,
@@ -159,8 +159,9 @@
     "categoria": "vestidos",
     "precio": 10,
     "color": "bordo",
-    "stock": 19,
-    "stockInicial": 19
+    "stock": 8,
+    "stockInicial": 19,
+    "cantidad": 11
   },
   {
     "id": 15,
@@ -178,7 +179,7 @@
     "nombre": "campera Montagne",
     "imagen": "/imagenes/chica_campera-negra.jpeg",
     "categoria": "camperas",
-    "stock": 9,
+    "stock": 8,
     "stockInicial": 11,
     "precio": 10,
     "color": "negra",
@@ -202,7 +203,7 @@
     "categoria": "tapados",
     "precio": 10,
     "color": "marron",
-    "stock": 13,
+    "stock": 11,
     "stockInicial": 15,
     "cantidad": 1
   },
@@ -211,7 +212,7 @@
     "nombre": "musculosa lila Diosas",
     "imagen": "/imagenes/remera-lila.jpeg",
     "categoria": "remeras",
-    "stock": 16,
+    "stock": 1,
     "stockInicial": 16,
     "precio": 10,
     "color": "lila",
